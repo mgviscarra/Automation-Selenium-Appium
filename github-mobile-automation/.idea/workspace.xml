@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abc93499-73f8-4592-bf82-1596bd65d505" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g1WpfNgwLo04elDZKCS5A1UEGy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47065592" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="JUnit.GitHubMobileTestExample">
+    <configuration name="GitHubMobileTestExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubMobileTestExample.loginFailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="METHOD_NAME" value="loginFailTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubMobileTestExample.loginSuccessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="METHOD_NAME" value="loginSuccessTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubMobileTestExample.navigationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="METHOD_NAME" value="navigationTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubMobileTestExample.loginSuccessTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="METHOD_NAME" value="loginSuccessTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GitHubMobileTestExample.loginSuccessTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="github-mobile-automation" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GitHubMobileTestExample" />
+      <option name="METHOD_NAME" value="loginSuccessTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.GitHubMobileTestExample.loginSuccessTest" />
+      <item itemvalue="JUnit.GitHubMobileTestExample.loginFailTest" />
+      <item itemvalue="JUnit.GitHubMobileTestExample.navigationTest" />
+      <item itemvalue="JUnit.GitHubMobileTestExample" />
+      <item itemvalue="TestNG.GitHubMobileTestExample.loginSuccessTest" />
+      <item itemvalue="TestNG.GitHubMobileTestExample.loginSuccessTest (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GitHubMobileTestExample" />
+        <item itemvalue="JUnit.GitHubMobileTestExample.navigationTest" />
+        <item itemvalue="JUnit.GitHubMobileTestExample.loginFailTest" />
+        <item itemvalue="JUnit.GitHubMobileTestExample.loginSuccessTest" />
+        <item itemvalue="TestNG.GitHubMobileTestExample.loginSuccessTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abc93499-73f8-4592-bf82-1596bd65d505" name="Default Changelist" comment="" />
+      <created>1597282762506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597282762506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2000" y="19" key="#Project_Structure" timestamp="1597283102638">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state x="2000" y="19" key="#Project_Structure/3360.-157.1920.1057/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597283102638" />
+    <state x="1864" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597287364702">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state x="1864" y="16" key="#com.intellij.execution.impl.EditConfigurationsDialog/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597287364702" />
+    <state width="1878" height="278" key="GridCell.Tab.0.bottom" timestamp="1597297775504">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.bottom/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927104" />
+    <state width="1878" height="278" key="GridCell.Tab.0.bottom/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297775504" />
+    <state width="1878" height="278" key="GridCell.Tab.0.center" timestamp="1597297775502">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.center/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927102" />
+    <state width="1878" height="278" key="GridCell.Tab.0.center/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297775502" />
+    <state width="1878" height="278" key="GridCell.Tab.0.left" timestamp="1597297775501">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.left/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927101" />
+    <state width="1878" height="278" key="GridCell.Tab.0.left/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297775501" />
+    <state width="1878" height="278" key="GridCell.Tab.0.right" timestamp="1597297775503">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.right/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927103" />
+    <state width="1878" height="278" key="GridCell.Tab.0.right/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297775503" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom" timestamp="1597292927107">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927107" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597291112834" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center" timestamp="1597292927106">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.center/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927106" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597291112833" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left" timestamp="1597292927105">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.left/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927105" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597291112832" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right" timestamp="1597292927106">
+      <screen x="1440" y="-180" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.right/3360.-180.1920.1080/0.0.1440.900/1440.-180.1920.1080@1440.-180.1920.1080" timestamp="1597292927106" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597291112834" />
+    <state x="1938" y="16" key="Maven.ArtifactSearchDialog" timestamp="1597297264964">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state x="1938" y="16" key="Maven.ArtifactSearchDialog/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297264964" />
+    <state x="1888" y="-65" key="SettingsEditor" timestamp="1597297603065">
+      <screen x="1440" y="-157" width="1920" height="1022" />
+    </state>
+    <state x="1888" y="-65" key="SettingsEditor/3360.-180.1920.1080/0.23.1440.877/1440.-157.1920.1022@1440.-157.1920.1022" timestamp="1597297603065" />
+  </component>
+</project>
